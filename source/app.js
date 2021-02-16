@@ -9,7 +9,7 @@
     }
 
     var req = new window.XMLHttpRequest()
-    req.open('POST', 'https://soundcloud.com/oembed', true)
+    req.open('POST', 'https://bandcamp.com/oembed', true)
     req.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8')
 
     req.onload = function () {
