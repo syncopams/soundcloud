@@ -19,9 +19,9 @@
             "url": {
               "title": "URL",
               "type": "string",
-              "description": "The URL of the SoundCloud track or playlist to be embedded",
+              "description": "The URL of the Bandcamp track or playlist to be embedded",
               "order": 1,
-              "default": "https://soundcloud.com/chookiemusic/viceroy-dream-of-bombay-feat"
+              "default": "https://robinguthrie.bandcamp.com/album/another-flower"
             },
             "location": {
               "title": "Location",
